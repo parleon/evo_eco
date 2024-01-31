@@ -1,0 +1,46 @@
+File Manifest for ICPSR 4351
+
+Fox, James Alan. UNIFORM CRIME REPORTS [UNITED STATES]: SUPPLEMENTARY
+HOMICIDE REPORTS, 1976-2003. Compiled by Northeastern University, College
+of Criminal Justice. ICPSR04351-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [producer and distributor],
+2005-11-22. http://doi.org/10.3886/ICPSR04351.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04351-descriptioncitation.pdf       -       -         -       2014-07-03  -
+
+    04351-related_literature.txt        -       -         -       daily       -
+
+    04351-manifest.txt                  -       -         -       daily       -
+
+    04351-Codebook.pdf                  -       -         -       2005-11-22  91f305fb78b0ab57eb75352f70bb881d
+
+
+DS0001 Offender Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04351-0001-Data.txt                 108     591,386   31      2005-11-22  fb4285cf01ba755ec61274c4bd367d4b
+
+    04351-0001-Setup.sas                -       -         -       2005-11-22  743c85f88c50209c183c6f55c07719a9
+
+    04351-0001-Setup.sps                -       -         -       2005-11-22  fa996c0222cd7c659e8c180924545944
+
+
+DS0002 Victim Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04351-0002-Data.txt                 102     534,042   31      2005-11-22  ed6d5959a1465d3f235b41c4170552c4
+
+    04351-0002-Setup.sas                -       -         -       2005-11-22  4a0913c590f3d7b0cf3fe137c154013f
+
+    04351-0002-Setup.sps                -       -         -       2005-11-22  89af940310c4263ad9efa4d89b9c6fe5
+
