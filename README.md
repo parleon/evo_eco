@@ -3,5 +3,5 @@
 ## startup
 bash setup.sh\
 source venv/bin/activate\
-jupyter notebook\
+jupyter notebook
 
