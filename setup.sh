@@ -9,6 +9,8 @@ source venv/bin/activate
 # Install pandas and jupyter using pip
 pip3 install pandas
 pip3 install jupyter
+pip3 install statsmodels
+pip3 install matplotlib
 
 # Deactivate the virtual environment
 deactivate
